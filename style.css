@@ -1,0 +1,78 @@
+#img1{
+   width: 80px;
+   height: 80px;
+   margin: 12px;
+}
+.wholepage{
+    border: solid;
+    margin: auto;
+    max-width: 1100px;
+}
+header{
+    margin: 12px;
+    background-color: rgb(167, 164, 164);
+}
+#secondsection{
+    margin-left: 15px;
+    display: inline-flex;
+}
+#secondsection1{
+border: dashed;
+border-color: green;
+width: 325px;
+height: 500px;
+margin-left: 8px;
+}
+#p1{
+    margin-left: 8px;
+}
+#p2{
+    margin-left: 8px;
+}
+#p3{
+    margin-left: 8px;
+}
+#secondsection2{
+text-align: center;
+border: dashed;
+border-color: green;
+width: 325px;
+height: 500px;
+margin-left: 30px;
+}
+
+#secondsection3{
+border: dashed;
+border-color: green;
+width: 325px;
+height: 500px;
+margin-left: 30px;
+}
+#Portf{
+    text-align: center;
+}
+#Projects{
+    text-align: center;
+}
+hr{
+   border-style: double;
+}
+body{
+    align-items: center;
+}
+
+#thirdsection{
+    margin: 12px;
+}
+
+table,th,td{
+    border: 1px solid black;
+    table-layout: auto;
+}
+footer{
+    text-align: center;
+    background-color: peachpuff;
+    height: 30px;
+    margin-bottom: 15px;   
+    margin: 12px;
+}
